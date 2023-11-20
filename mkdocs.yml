@@ -1,0 +1,63 @@
+site_name: Sudheer Reddy G
+copyright: Sudheer Reddy G
+
+site_description: "My Project."
+
+repo_url: https://github.com/SudheerKReddyG/ielts.github.io
+repo_name: SudheerKReddyG/ielts.github.io
+
+theme:
+  icon:
+    repo: fontawesome/brands/github
+  name: "material"
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: "blue"
+      accent: "grey"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: "black"
+      accent: "white"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+extra:
+  generator: false
+
+nav:
+    - Home: index.md
+    - IELTS Writting: 
+      - writting/part1.md
+      - writting/part2.md
+      - writting/part3.md
+      - writting/part4.md
+      - writting/part5.md
+      - writting/part6.md
+      - writting/part7.md
+      - writting/part8.md
+      - writting/part9.md
+    - IELTS Speaking:
+      - speaking/part1.md
+      - speaking/part2.md
+    - IELTS Listening: 
+      - listening/part1.md
+      - listening/part2.md
+    - IELTS Reading: 
+      - reading/part1.md
+      - reading/part2.md
+    - About: about.md
+
+copyright: Copyright &copy; 2023 Sudheer Reddy G
+
