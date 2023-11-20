@@ -1,10 +1,10 @@
-site_name: Sudheer Reddy G
+site_name: UI Full Stack Project
 copyright: Sudheer Reddy G
 
 site_description: "My Project."
 
-repo_url: https://github.com/SudheerKReddyG/ielts.github.io
-repo_name: SudheerKReddyG/ielts.github.io
+repo_url: https://github.com/SudheerKReddyG/ui.github.io
+repo_name: SudheerKReddyG/ui.github.io
 
 theme:
   icon:
@@ -38,7 +38,7 @@ extra:
 
 nav:
     - Home: index.md
-    - IELTS Writting: 
+    - Softwares Installation(Setup): 
       - Installation/Notes.md
     - About: about.md
 
