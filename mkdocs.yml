@@ -39,7 +39,7 @@ extra:
 nav:
     - Home: index.md
     - Softwares Installation(Setup): 
-      - Installation/Notes.md
+      - Installation/notes.md
       - Installation/angular.md
       - Installation/java.md
       - Installation/editors.md

@@ -6,6 +6,6 @@ Visual Studio Code
 
 https://code.visualstudio.com/download
 
-# Spring Boot Services
+## Spring Boot Services
 
 IntelliJ Community Edition

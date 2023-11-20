@@ -11,7 +11,6 @@ Install node version min v18 or above.
 Once we install NODE, please check version information using CMD prompt.
 
 <pre><code class="shell">Win+R -> CMD</code></pre>
-<pre><code class="shell"></code></pre>
 
 Enter below command to display version number.
 
