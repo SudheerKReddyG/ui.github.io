@@ -2,7 +2,7 @@
 
 Use below URL to get latest JAVA software.
 
-https://www.oracle.com/java/technologies/downloads/
+<pre><code class="shell">https://www.oracle.com/java/technologies/downloads/</code></pre>
 
 We need min JDK 17 or max JDK 21
 
@@ -10,7 +10,7 @@ Please download JAVA JDK and install, once installed please check version number
 
 Use below command to check the version.
 
-C:\Users\gadda>java --version
+<pre><code class="shell">C:\Users\gadda>java --version</code></pre>
 
 java 17.0.9 2023-10-17 LTS
 
