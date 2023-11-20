@@ -39,24 +39,7 @@ extra:
 nav:
     - Home: index.md
     - IELTS Writting: 
-      - writting/part1.md
-      - writting/part2.md
-      - writting/part3.md
-      - writting/part4.md
-      - writting/part5.md
-      - writting/part6.md
-      - writting/part7.md
-      - writting/part8.md
-      - writting/part9.md
-    - IELTS Speaking:
-      - speaking/part1.md
-      - speaking/part2.md
-    - IELTS Listening: 
-      - listening/part1.md
-      - listening/part2.md
-    - IELTS Reading: 
-      - reading/part1.md
-      - reading/part2.md
+      - Installation/Notes.md
     - About: about.md
 
 copyright: Copyright &copy; 2023 Sudheer Reddy G
