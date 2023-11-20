@@ -25,18 +25,3 @@ SQL/NoSQL
 Raact/Angular -> Spring boot services/JAVA -> DB
 
 React/Angular -> Express JS/Node JS -> DB 
-
-
-
-
-========================Editors================================
-
-Angular#
-
-Visual Studio Code
-
-https://code.visualstudio.com/download
-
-Spring Boot Services#
-
-IntelliJ Community Edition
