@@ -40,6 +40,9 @@ nav:
     - Home: index.md
     - Softwares Installation(Setup): 
       - Installation/Notes.md
+      - Installation/angular.md
+      - Installation/java.md
+      - Installation/editors.md
     - About: about.md
 
 copyright: Copyright &copy; 2023 Sudheer Reddy G
