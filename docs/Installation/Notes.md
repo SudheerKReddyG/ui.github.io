@@ -27,19 +27,7 @@ Raact/Angular -> Spring boot services/JAVA -> DB
 React/Angular -> Express JS/Node JS -> DB 
 
 
---> Java Installation
 
-https://www.oracle.com/java/technologies/downloads/
-
-JDK 17/21
-
-C:\Users\gadda>java --version
-
-java 17.0.9 2023-10-17 LTS
-
-Java(TM) SE Runtime Environment (build 17.0.9+11-LTS-201)
-
-Java HotSpot(TM) 64-Bit Server VM (build 17.0.9+11-LTS-201, mixed mode, sharing)
 
 ========================Editors================================
 
