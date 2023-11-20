@@ -26,6 +26,45 @@ Raact/Angular -> Spring boot services/JAVA -> DB
 
 React/Angular -> Express JS/Node JS -> DB 
 
+## Angular Installation
+
+--> Angular modules will run on NODE JS
+
+https://nodejs.org/en/download
+
+Install node version min v18 or above
+
+C:\Users\gadda>node --version
+
+v20.9.0
+
+C:\Users\gadda>npm --version
+
+10.1.0
+
+--> Need to load angular cli
+
+https://angular.io/cli
+
+angular modules -> angular/cli -> npm -> node js
+
+npm install -g @angular/cli
+
+minor/major
+
+npm install -g npm@10.2.4
+
+ng version
+
+----How to create a new angular project----
+
+ng new helloworld
+
+cd helloworld
+
+ng serve
+
+http://localhost:4200/
 
 --> Java Installation
 
