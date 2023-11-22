@@ -43,6 +43,8 @@ nav:
       - Installation/angular.md
       - Installation/java.md
       - Installation/editors.md
+    - Angular Basics
+      - angular/basics/basics.md  
     - About: about.md
 
 copyright: Copyright &copy; 2023 Sudheer Reddy G
